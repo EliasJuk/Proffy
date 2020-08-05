@@ -25,12 +25,12 @@ function Landing() {
             className="hero-image" />
 
         <div className="buttons-container">
-          <a href="#" className="study">
+          <a href="TeacherList" className="study">
             <img src={studyIcon} alt="Esudar" />
               Estudar
           </a>
 
-          <a href="#" className="give-classes">
+          <a href="/TeacherForm" className="give-classes">
             <img src={giveClassesIcon} alt="Esudar" />
               Dar aulas
           </a>           
