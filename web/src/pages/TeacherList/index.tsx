@@ -2,12 +2,14 @@ import React from 'react';
 
 import PageHeader from '../../components/PageHeader';
 
-function TeacherForm() {
+import './styles.css';
+
+function TeacherList() {
   return (
-    <div id="page-teacher-form" className="container">
+    <div id="page-teacher-list" className="container">
       <PageHeader />
     </div>
   )
 }
 
-export default TeacherForm;
+export default TeacherList;
