@@ -39,8 +39,12 @@
 ## 💻 Project
 
 <p align="center">
-    <img alt="logo" title="logo" src="readme/logo.png" />
-    <h3 align="center">Proffy is an application that can connect who wants to learn, with wants to teach.</h3>
+  <img alt="logo" title="logo" src="readme/logo.png" />
+  <h3 align="center">Proffy is an application that can connect who wants to learn, with wants to teach.</h3>
+</p>
+
+<p align="center">
+  <img src="readme/001.png" width="30%" />
 </p>
 
 <p>&nbsp;</p>
