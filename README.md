@@ -8,25 +8,34 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasJuk/Proffy-Web">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasJuk/Proffy-Web">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasJuk/Proffy">	
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasJuk/Proffy">
 	
   <a href="https://www.linkedin.com/in/eliaspjuk/">
     <img alt="Made by EliasJuk" src="https://img.shields.io/badge/made%20by-EliasJuk-%2304D361">
   </a>
   
-  <a href="https://github.com/EliasJuk/Proffy-Web/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasJuk/Proffy-Web">
+  <a href="https://github.com/EliasJuk/Proffy/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasJuk/Proffy">
   </a>
   
-  <a href="https://github.com/EliasJuk/Proffy-Web/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasJuk/Proffy-Web">
+  <a href="https://github.com/EliasJuk/Proffy/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasJuk/Proffy">
   </a>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
 <p>
 
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
 ---
+
+<p>&nbsp;</p>
 
 ## 🔖 Layout
 
@@ -40,9 +49,9 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/PT
 
 This project was developed with the following technologies:
 
-- [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org)
 - [React Router-dom](#)
+- [Node.js](https://nodejs.org/en/) 
 
 ---
 
