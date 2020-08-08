@@ -3,6 +3,29 @@
   <img alt="nlw2" title="#nlw2" src="readme/nlw2.svg"/>
 </p>
 
+<h4 align="center"> 
+  🚀 Application developed during the Next Level Week by Rocketseat 🚀
+</h4>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasJuk/Proffy-Web">	
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasJuk/Proffy-Web">
+	
+  <a href="https://www.linkedin.com/in/eliaspjuk/">
+    <img alt="Made by EliasJuk" src="https://img.shields.io/badge/made%20by-EliasJuk-%2304D361">
+  </a>
+  
+  <a href="https://github.com/EliasJuk/Proffy-Web/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasJuk/Proffy-Web">
+  </a>
+  
+  <a href="https://github.com/EliasJuk/Proffy-Web/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasJuk/Proffy-Web">
+  </a>
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
+<p>
+
 ---
 
 ## 🔖 Layout
