@@ -34,6 +34,19 @@
 </p>
 
 ---
+<p>&nbsp;</p>
+
+## 💻 Project
+
+<h1 align="center">
+    <img alt="logo" title="logo" src="readme/logo.jpg" />
+</h1>
+
+Proffy is an application that can connect who wants to learn, with wants to teach.
+
+<p>&nbsp;</p>
+
+---
 
 <p>&nbsp;</p>
 
@@ -49,9 +62,15 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/PT
 
 This project was developed with the following technologies:
 
+- HTML
+- CSS
+- Javascript
+- Typescript
 - [React](https://reactjs.org)
 - [React Router-dom](#)
-- [Node.js](https://nodejs.org/en/) 
+- [Node.js](https://nodejs.org/en/)
+- [yarn](#)
+- [npm](#)
 
 ---
 
