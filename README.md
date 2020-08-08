@@ -1,5 +1,7 @@
 
-# Proffy-Web
+<p align="center">
+  <img alt="nlw2" title="#nlw2" src="readme/nlw2.svg"/>
+</p>
 
 ---
 
