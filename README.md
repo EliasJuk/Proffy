@@ -45,10 +45,6 @@
 
 <p>&nbsp;</p>
 
----
-
-<p>&nbsp;</p>
-
 ## 🔖 Layout
 
 Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/PTjyqNvmjKe7DerxPLugXc/Proffy-Web?node-id=0%3A1).
