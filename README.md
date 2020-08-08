@@ -27,6 +27,10 @@
 <p>
 
 <p align="center">
+  <a href="https://insomnia.rest/run/?label=Proffy&uri=https://raw.githubusercontent.com/EliasJuk/Proffy/master/readme/Insomnia_2020-08-08.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
+
+<p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -68,8 +72,10 @@ This project was developed with the following technologies:
 - [React](https://reactjs.org)
 - [React Router-dom](#)
 - [Node.js](https://nodejs.org/en/)
-- [yarn](#)
-- [npm](#)
+- [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
+- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
+- [Express](https://www.npmjs.com/package/express)
 
 ---
 
