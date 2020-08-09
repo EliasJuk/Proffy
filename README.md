@@ -59,6 +59,33 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/PT
 
 ---
 
+## ❔ How To Use
+
+<p>To clone and run this application, you'll need Git, [Node.js][nodejs] + [Yarn][yarn] installed on your computer.</p>
+
+From your command line:
+
+### ❕ Install API
+
+```bash
+# Clone this repository
+$ git clone https://github.com/EliasJuk/Proffy
+
+# Go into the repository
+$ cd Proffy/server
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn Knex:migrate 
+
+# Run the API
+$ yarn start
+```
+
+---
+
 <p>&nbsp;</p>
 
 ## :rocket: Technologies
