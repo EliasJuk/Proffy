@@ -76,6 +76,8 @@ This project was developed with the following technologies:
 - [npm](https://www.npmjs.com/)
 - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
 - [Express](https://www.npmjs.com/package/express)
+- [Knexjs](http://knexjs.org/)
+- Sqlite
 
 ---
 
