@@ -105,6 +105,7 @@ This project was developed with the following technologies:
 - [Express](https://www.npmjs.com/package/express)
 - [Knexjs](http://knexjs.org/)
 - Sqlite
+- [Cors](https://www.npmjs.com/package/cors)
 
 ---
 
