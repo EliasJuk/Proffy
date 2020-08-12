@@ -106,6 +106,7 @@ This project was developed with the following technologies:
 - [Knexjs](http://knexjs.org/)
 - Sqlite
 - [Cors](https://www.npmjs.com/package/cors)
+- [Axios](https://github.com/axios/axios)
 
 ---
 
