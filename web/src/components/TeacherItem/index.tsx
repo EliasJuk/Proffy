@@ -1,34 +1,58 @@
 import React from 'react';
 
+import api from '../../services/api';
+
 import whatsappIcon from '../../assets/images/icons/whatsapp.svg';
 
 import './styles.css';
 
-function TeacherItem(){
+export interface Teacher {
+  avatar: string;
+  bio: string;
+  cost: number;
+  id: number;
+  name: string;
+  subject: string;
+  whatsapp: string;
+}
+
+interface TeacherItemProps {
+  teacher: Teacher;
+}
+
+const TeacherItem: React.FC<TeacherItemProps> = ({ teacher }) => {
+  function createNewConnection() {
+    api.post('connections', {
+      user_id: teacher.id,
+    })
+  }
+
   return(
     <div>
       <article className="teacher-item">
       <header>
-        <img src="https://avatars2.githubusercontent.com/u/49464828?s=460&u=b66b919c4ccb9be285ed64bc99716b8f70b0f4e0&v=4" alt="EliasJuk"/>
+        <img src={teacher.avatar} alt={teacher.name} />
         <div>
-          <strong>Elias Juk</strong>
-          <span>Algoritimos</span>
+          <strong>{teacher.name}</strong>
+          <span>{teacher.subject}</span>
         </div>
       </header>
       <p>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-        <br/><br/>
-        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+        {teacher.bio}
       </p>
       <footer>
         <p>
           Preço/hora
-          <strong>R$ 20,00</strong>
+          <strong>{teacher.cost}</strong>
         </p>
-        <button type="button">
+        <a 
+          target="_blank"
+          onClick={createNewConnection}
+          href={`https://wa.me/${teacher.whatsapp}`}
+        >
           <img src={whatsappIcon} alt="Whatsapp" />
           Entrar em contato
-        </button>
+        </a>
       </footer>
     </article>
   </div>

@@ -2,10 +2,11 @@ import React, { SelectHTMLAttributes } from 'react';
 
 import './style.css';
 
-interface SelectProps extends SelectHTMLAttributes<HTMLSelectElement> {
-  name: string;
-  label: string;
-  options: Array<{
+interface SelectProps extends SelectHTMLAttributes<HTMLSelectElement> 
+  {
+    name: string;
+    label: string;
+    options: Array<{
     value: string;
     label: string;
   }>;
