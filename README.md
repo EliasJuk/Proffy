@@ -65,23 +65,40 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/PT
 
 From your command line:
 
-### ❕ Install API
-
 ```bash
 # Clone this repository
 $ git clone https://github.com/EliasJuk/Proffy
+```
 
-# Go into the repository
-$ cd Proffy/server
+### 💻 Running project on a web browser
+
+#### Back-end
+
+```bash
+# Go to project's server folder
+$ cd server
 
 # Install dependencies
-$ yarn install
+$ yarn install or npm install
 
-# Run Migrates
-$ yarn Knex:migrate 
+# Run application
+$ yarn start or npm run start
 
-# Run the API
-$ yarn start
+# Make migrations
+$ yarn knex:migrate
+```
+
+#### Front-end
+
+```bash
+# Go to project's web folder
+$ cd web
+
+# Install dependencies
+$ yarn install or npm install
+
+# Run application
+$ yarn start or npm run start
 ```
 
 ---
